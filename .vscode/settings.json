@@ -1,0 +1,10 @@
+{
+    "vsmqtt.brokerProfiles": [
+        {
+            "name": "https://seagroupiot.herokuapp.com/",
+            "host": "https://seagroupiot.herokuapp.com/",
+            "port": 80,
+            "clientId": "vsmqtt_client"
+        }
+    ]
+}
